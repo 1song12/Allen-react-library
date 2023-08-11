@@ -1,6 +1,6 @@
 ---
 hero:
-  title: orange UI
+  title: Allent UI
   desc: 一套易用的轻量级的React UI 组件库
   actions:
     - text: Getting Started
